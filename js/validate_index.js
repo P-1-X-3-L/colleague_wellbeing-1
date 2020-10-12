@@ -3,7 +3,7 @@ function validate() {
     var w = document.getElementById("password").value;
 
     if (x.includes("john.doe@sainsburys.co.uk") && w == "12345678") {
-                window.location = "file:///C:/Users/sumuk/Desktop/client-visit-final/html/home_page.html"
+                window.location = "C:\Users\sumuk\Desktop\colleague_wellbeing\html\home_page.html"
 
     }
     else {
