@@ -4,6 +4,7 @@ body {
     font-family: sans-serif;
     background-image: url('C:/Users/sumuk/Desktop/colleague_wellbeing/images/bgimage.jpg');
     background-size: cover;
+
 }
 
 .box
@@ -80,3 +81,6 @@ body {
         border-radius: 5px;
         margin-left: 130px;
     }
+
+
+    
